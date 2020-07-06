@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5F5F5F</color>
+    <color name="colorPrimaryDark">#9C3189</color>
+    <color name="colorAccent">#242E42</color>
+    <color name="colordark">#212121</color>
+    <color name="app_background">#F2EFF1</color>
+    <color name="overlayBackground">#7f989c9f</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#E3E5E8</color>
+    <color name="sheet_title">#F2F7F7F7</color>
+    <color name="drakOrange">#f36b2c</color>
+    <color name="black">#ff000000</color>
+    <color name="blackLight">#AD000000</color>
+    <color name="colorYellow">#F7A500</color>
+    <color name="green">#008000</color>
+    <color name="zxing_transparent">#00000000</color>
+</resources>

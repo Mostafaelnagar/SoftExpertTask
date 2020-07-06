@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SoftExpertTask</string>
+    <string name="home">Home</string>
+    <string name="car_used_test">Used</string>
+    <string name="car_not_used_text">New</string>
+    <string name="connection_invaild_msg">Poor Internet Connection</string>
+    <string name="connection_invaild_body">Check your Internet connection and try again</string>
+    <string name="connection_On">Please turn on</string>
+    <string name="connection_Wifi">Wifi</string>
+    <string name="connection_Data">Mobile data</string>
+    <string name="connection_AirPlane">You have turned on the airplane mode.</string>
+    <string name="connection_AirPlane_TurnOff">Please turn off</string>
+    <string name="connection_AirPlane_Mode">Airplane mode</string>
+    <string name="fieldRequired">This field is required</string>
+    <string name="locationWarning">Please choose your location first</string>
+</resources>
